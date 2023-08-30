@@ -1,8 +1,7 @@
 # IT2030Fall2023EdwardMalyovany
+1. Sports and Outdoors.
+2. Edward's Outdoors Haven
 
-**Application Type:** Retail Web Application
-**App Name:** Edward's Outdoors Haven
-**Summary Description:**
 Welcome to Edward's Outdoors Haven, your ultimate destination for all things sports and outdoors!
 At Edward's, we're passionate about helping outdoor enthusiasts and adventurers gear up for their next thrilling journey. 
 Our meticulously curated collection includes a wide range of high-quality sports equipment, apparel, and accessories that
