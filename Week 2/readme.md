@@ -1,1 +1,1 @@
-
+I'm accustomed to using Visual Studio Code instead of Visual Studio, so it was a bit of a learning curve, and I am still learning. I would say I am proficient in HTML and CSS but need to practice C#, which I've been doing in my free time. I encountered some difficulties while setting up the ASP.NET Core template (Visual Studio errors), so I hope that I did everything correctly. Other than that, I felt quite confident in this lab.
