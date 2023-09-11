@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Edward's Outdoors Haven</title>
+    <title>Your Page Title</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/custom.css" asp-append-version="true" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -77,9 +77,8 @@
             Stay updated on the latest trends, tips, and product launches with our interactive blog and news section. Let Edward's be your trusted partner in making every outdoor adventure memorable and exciting. Welcome to your haven for
             all things outdoors—welcome to Edward's Outdoors Haven!
         </p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Football_in_Bloomington%2C_Indiana%2C_1996.jpg" alt="Outdoor Sports Picture">
+        <img src="~/images/your-image.jpg" alt="Outdoor Sports Picture">
     </div>
 
 </body>
 </html>
-
