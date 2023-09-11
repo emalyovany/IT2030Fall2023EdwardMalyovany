@@ -1,1 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edward's Outdoors Haven</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/custom.css" asp-append-version="true" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            padding: 1em;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p {
+            clear: left;
+            font-size: 1.2em;
+        }
+
+        img {
+            float: left;
+            width: 12em;
+        }
+
+        ul.navbar {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            background-color: #333;
+            overflow: hidden;
+        }
+
+            ul.navbar li {
+                float: left;
+            }
+
+                ul.navbar li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 14px 16px;
+                    text-decoration: none;
+                }
+
+                    ul.navbar li a:hover {
+                        background-color: #555;
+                    }
+
+        .navbar-logo img {
+            max-height: 40px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <ul class="navbar">
+        <li class="navbar-logo"><a href="#"><img src="https://t4.ftcdn.net/jpg/02/86/93/35/360_F_286933595_BMa9QBz8qwJPcoqoTjs2lI4vnP7mYq3Z.jpg" alt="Edwards Outdoor and Sports Logo"></a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Privacy</a></li>
+    </ul>
+
+    <div class="container">
+        <h1>Welcome to Edward's Outdoors Haven</h1>
+        <p>
+            Welcome to Edward's Outdoors Haven, your ultimate destination for all things sports and outdoors! At Edward's, we're passionate about helping outdoor enthusiasts and adventurers gear up for their next thrilling journey.
+            Our meticulously curated collection includes a wide range of high-quality sports equipment, apparel, and accessories that cater to every adventure seeker's needs. Step into a world of possibilities where you can explore
+            our diverse categories, from hiking and camping to water sports and beyond. Edward's Outdoors Haven is more than just a store; it's a hub for rekindling your love of the wild outdoors. Take part in a simple shopping
+            experience that lets you quickly browse products, read thorough descriptions, and see breathtaking pictures. Our easy-to-use interface enables you to find just what you require, whether you're a devoted cyclist, an
+            enthusiastic hiker, or a sports enthusiast.
+        </p>
+        <p>
+            Discover the thrill of discovering new gear, all from the comfort of your own home. Edward's Outdoors Haven is dedicated to providing top-notch customer service, ensuring that your shopping experience is smooth and enjoyable.
+            Stay updated on the latest trends, tips, and product launches with our interactive blog and news section. Let Edward's be your trusted partner in making every outdoor adventure memorable and exciting. Welcome to your haven for
+            all things outdoors—welcome to Edward's Outdoors Haven!
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Football_in_Bloomington%2C_Indiana%2C_1996.jpg" alt="Outdoor Sports Picture">
+    </div>
+
+</body>
+</html>
 
