@@ -1,0 +1,8 @@
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.AssemblyInfo.cs
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cache
+C:\Users\Yetunde\OneDrive\Desktop\aspnet_core_mvc(2nd)\instructors\student_projects\project_starts\5-1_TipCalculator\TipCalculator\obj\Debug\net6.0\TipCalculator.RazorAssemblyInfo.cs
