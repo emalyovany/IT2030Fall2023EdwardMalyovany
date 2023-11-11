@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EdsHikingShop/1.0.0": {
+        "runtime": {
+          "EdsHikingShop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EdsHikingShop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
